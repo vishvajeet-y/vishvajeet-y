@@ -2,11 +2,11 @@
 
 
 
-- 🔭 I’m currently working on ...expense-app
-- 🌱 I’m currently learning ...React Js
-- 👯 I’m looking to collaborate on ... ReactJs and Node Js
-- 🤔 I’m looking for help with ...React Js
-- 💬 Ask me about ... React Js
+- 🔭 I’m currently working on ...Dev-connector
+- 🌱 I’m currently learning ...MERN Stack
+- 👯 I’m looking to collaborate on ... MERN Stack
+- 🤔 I’m looking for help with ...MERN Stack
+- 💬 Ask me about ... MERN Stack
 
 ![My github](https://github-readme-stats.vercel.app/api?username=vishvajeet-y&show_icons=true&count_private=true&theme=jolly&include_all_commits=true&hide_title=true)
 <br />
