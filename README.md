@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on ...Dev-connector
+- 🔭 I’m currently working on ...Dev-Connector
 - 🌱 I’m currently learning ...MERN Stack
 - 👯 I’m looking to collaborate on ... MERN Stack
 - 🤔 I’m looking for help with ...MERN Stack
